@@ -129,13 +129,13 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Add smooth scrolling for navigation links.
      - **Reading:** [React Scroll Behavior](https://www.npmjs.com/package/react-scroll)
-     - **Video:** [Smooth Scrolling in React](https://www.youtube.com/watch?v=6tfoC4D28wM)
+     - **Video:** [Smooth Scrolling in React](https://www.youtube.com/watch?v=0TnO1GzKWPc)
   2. Implement a footer with links to social media and company info.
      - **Reading:** [Building Footers in React](https://react.dev/reference/react)
-     - **Video:** [Footer Design Tutorial](https://www.youtube.com/watch?v=zgHimG7Rfns)
+     - **Video:** [Footer Design Tutorial](https://www.youtube.com/watch?v=_NPzWvTD2w8)
   3. Optimize images and assets for faster loading.
      - **Reading:** [Image Optimization Guide](https://web.dev/fast/)
-     - **Video:** [Optimizing Images in React](https://www.youtube.com/watch?v=cx8KYWgX6Sw)
+     - **Video:** [Optimizing Images in React](https://www.youtube.com/watch?v=-zzmfjIiC3M)
 
 - **Deliverables:**
   - Smooth scrolling functionality.
