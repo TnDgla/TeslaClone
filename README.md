@@ -1,4 +1,6 @@
-## **Project Name: Tesla Clone**
+---
+
+# **Project Name: Tesla Clone**
 
 The **Tesla Clone** is a responsive and visually appealing website designed to replicate the Tesla homepage. Built using **React.js** and **Tailwind CSS**, this project is beginner-friendly and emphasizes clean code structure, efficient styling, and modern design practices. By completing this project, developers can gain hands-on experience with React and Tailwind CSS, while creating a professional-looking portfolio piece.
 
