@@ -110,13 +110,13 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Download and integrate the Gotham font.
      - **Reading:** [Custom Fonts in Tailwind](https://tailwindcss.com/docs/font-family)
-     - **Video:** [Adding Fonts in React](https://www.youtube.com/watch?v=7vyrVDgPnmQ)
+     - **Video:** [Adding Fonts in React](https://www.youtube.com/watch?v=arfDRUIZOiw)
   2. Style buttons and navigation links with hover effects.
      - **Reading:** [Tailwind Hover Effects](https://tailwindcss.com/docs/hover-focus-and-other-states)
-     - **Video:** [Styling Buttons in Tailwind](https://www.youtube.com/watch?v=fRrPBO8t_Z8)
+     - **Video:** [Styling Buttons in Tailwind](https://www.youtube.com/watch?v=R6d5pRFulIk)
   3. Ensure mobile responsiveness using Tailwind breakpoints.
      - **Reading:** [Responsive Design in Tailwind](https://tailwindcss.com/docs/responsive-design)
-     - **Video:** [Responsive Design with Tailwind](https://www.youtube.com/watch?v=AUy4cvAeaUo)
+     - **Video:** [Responsive Design with Tailwind](https://www.youtube.com/watch?v=WGsiW_-2rZg&t=3s)
 
 - **Deliverables:**
   - Custom font integration.
