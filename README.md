@@ -151,7 +151,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg)
   2. Deploy the app on Netlify or Vercel.
      - **Reading:** [Netlify Deployment Docs](https://docs.netlify.com/)
-     - **Video:** [Deploying React Apps on Netlify](https://www.youtube.com/watch?v=8lGpZkjnkt4)
+     - **Video:** [Deploying React Apps on Netlify](https://www.youtube.com/watch?v=Ey_90l9GaAw)
 
 - **Deliverables:**
   - Fully deployed Tesla Clone accessible via a public URL.
