@@ -91,10 +91,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Create a reusable **Header** component.
      - **Reading:** [React Components](https://react.dev/learn)
-     - **Video:** [Building a Header in React](https://www.youtube.com/watch?v=U9XFhE4G8G8)
+     - **Video:** [Building a Header in React](https://www.youtube.com/watch?v=H52wZul9kEY&t=1s)
   2. Build the **Hero Section** with a background image and call-to-action buttons.
      - **Reading:** [Tailwind Background Image](https://tailwindcss.com/docs/background-image)
-     - **Video:** [Hero Section Design](https://www.youtube.com/watch?v=2KGep2hjhsw)
+     - **Video:** [Hero Section Design](https://www.youtube.com/watch?v=woFgOgg24kk)
   3. Implement grid-based car showcase sections.
      - **Reading:** [CSS Grid in Tailwind](https://tailwindcss.com/docs/grid-template-columns)
      - **Video:** [Using Grid in React](https://www.youtube.com/watch?v=9zBsdzdE4sM)
